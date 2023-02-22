@@ -1,0 +1,32 @@
+{
+    "users":[
+        {
+            "id":1,
+            "email":"kishansharma@gmail.com",
+            "password":"1234.com",
+            "name":"kishan sharma",
+            "phoneNumber":"6377302984",
+            "address":{
+                "fullAddress":"G49-newBapu nagar bhilwara",
+                "pinCode":"311001"
+            },
+            "ownProducts":[],
+            "orderProducts":[],
+            "cartProducts":[]
+        }
+    ],
+    "products":[
+        {
+            "id":1,
+            "sellerId":null,
+            "buyyerId":[],
+            "title":"iphone 14 pro",
+            "category":"mobile",
+            "condition":"Brand New",
+            "price":75000,
+            "image":"https://m.media-amazon.com/images/I/314Rp+8XKWL._SX342_SY445_.jpg",
+            "description":"Cinematic mode adds shallow depth of field and shifts focus automatically in your ",
+            "brand":"apple"
+        }
+    ]
+}
